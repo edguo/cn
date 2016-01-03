@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>老锅在线</title>
+        <description>老锅在线 - 中文</description>
+        <link>http://127.0.0.1:4000</link>
+        <atom:link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/rss+xml" />
+        
+            <item>
+               <title>Hello World</title>
+               <description>&lt;p&gt;Hello World!&lt;/p&gt;
+</description>
+               <pubDate>Sat, 02 Jan 2016 00:00:00 -0500</pubDate>
+               <link>http://127.0.0.1:4000/2016/01/hello-world/</link>
+               <guid isPermaLink="true">http://127.0.0.1:4000/2016/01/hello-world/</guid>
+               </item>
+        
+    </channel>
+</rss>

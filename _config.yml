@@ -1,0 +1,12 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+baseurl: /cn
+#url: http://edguo.github.io/cn
+url: http://127.0.0.1:4000
+author: 老锅在线
+pygments: true
+production_url : http://edguo.github.io/cn
+name: 老锅在线 
+description: 老锅在线 - 中文
+
+

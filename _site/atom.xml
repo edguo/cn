@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title></title>
+ <link href="http://edguo.github.io/cn/atom.xml" rel="self"/>
+ <link href="http://edguo.github.io/cn"/>
+ <updated>2016-01-02T19:37:58-05:00</updated>
+ <id>http://edguo.github.io/cn</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Hello World</title>
+   <link href="http://edguo.github.io/cn/2016/01/hello-world/"/>
+   <updated>2016-01-02T00:00:00-05:00</updated>
+   <id>http://edguo.github.io/cn/2016/01/hello-world</id>
+   <content type="html">&lt;p&gt;Hello World!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
