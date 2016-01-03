@@ -1,6 +1,5 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-baseurl: /cn
 url: http://edguo.github.io/cn
 author: 老锅在线
 pygments: true
